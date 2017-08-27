@@ -1,3 +1,6 @@
+# Python Program - TEXT-TO-SPEECH Converter
+# ***INTERNET CONNECTION IS COMPULSORY
+
 from gtts import gTTS
 import os
 from string import capwords
